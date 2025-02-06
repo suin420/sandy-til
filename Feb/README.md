@@ -8,3 +8,5 @@
 2025-02-04 NumPy, Pandas 세부 내용
 
 2025-02-05 NumPy 심화, 미니퀘스트
+
+2025-02-06 Pandas 심화, NumPy 및 Pandas 과제 
